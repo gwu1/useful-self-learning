@@ -1,4 +1,4 @@
-# useful-self-learning
+### Useful Self Learning Materials
 
 
 
@@ -15,7 +15,7 @@
 
 - R&D
 
-    # Artificial Intelligence
+    ## Artificial Intelligence
 
     ### TensorFlow
 
@@ -38,7 +38,7 @@
     - Convolutional Neural Networks [https://coursera.org/share/4a877c4c99c0fe530c87e67d9ae9194c](https://coursera.org/share/4a877c4c99c0fe530c87e67d9ae9194c)
     - Deep Learning and Computer Vision A-Z: OpenCV, SSD and GANs [https://www.udemy.com/share/101rbOBEcad1pSRXg=/](https://www.udemy.com/share/101rbOBEcad1pSRXg=/)
 
-    # Data Science
+    ## Data Science
 
     - Data Scientist with Python [https://learn.datacamp.com/career-tracks/data-scientist-with-python](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
     - Introduction to Data Science in Python [https://coursera.org/share/a5cc08486b38b6ac7f69bfd53ecf3ca2](https://coursera.org/share/a5cc08486b38b6ac7f69bfd53ecf3ca2)
@@ -54,7 +54,7 @@
     - Machine Learning with Big Data [https://coursera.org/share/dfe08a2b179446578bb2ab5c627d87d4](https://coursera.org/share/dfe08a2b179446578bb2ab5c627d87d4)
     - Data analyzing and machine learning Hands-on with KNIME [https://www.udemy.com/share/101N0jBEcad1pSRXg=/](https://www.udemy.com/share/101N0jBEcad1pSRXg=/)
 
-    # IoT
+    ## IoT
 
     ### Node-Red
 

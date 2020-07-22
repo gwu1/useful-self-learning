@@ -12,6 +12,12 @@
 
     Analysis for Business Systems: [https://www.coursera.org/learn/analysis-for-business-systems](https://www.coursera.org/learn/analysis-for-business-systems)
 
+    ### DB
+
+    - Mongoose - Object Data Modeling (ODM) library for MongoDB and Node.js: [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
+    - Official MongoDB driver for Golang: [go.mongodb.org/mongo-driver](https://pkg.go.dev/go.mongodb.org/mongo-driver)
+    - MongoDB Go Driver's GitHub page: [MongoDB Go Driver](https://github.com/mongodb/mongo-go-driver)
+    - A useful MongoDB Go Driver Tutorial: [MongoDB Go Driver Tutorial](https://www.mongodb.com/blog/post/mongodb-go-driver-tutorial)
 
 - R&D
 

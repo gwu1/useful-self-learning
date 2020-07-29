@@ -52,6 +52,11 @@
     - Complete Tableau 2020 Training for Absolute Beginners [https://www.udemy.com/share/101rmABEcad1pSRXg=/](https://www.udemy.com/share/101rmABEcad1pSRXg=/)
     - Data Visualization and Communication with Tableau [https://coursera.org/share/f13d3fa6f43ed145ccef411de46236b1](https://coursera.org/share/f13d3fa6f43ed145ccef411de46236b1)
     - How to Win a Data Science Competition: Learn from Top Kagglers [https://coursera.org/share/54421b8d11d4086cba3a8c452871fc4e](https://coursera.org/share/54421b8d11d4086cba3a8c452871fc4e)
+    - Rank Aggregation Problem
+        - [David P. Williamson (2012) The Rank Aggregation Problem](https://people.orie.cornell.edu/dpw/talks/RankAggDec2012.pdf)
+        - [Kostas Stefanidis (2016) Rank Aggregation](https://people.uta.fi/~kostas.stefanidis/dbir16/lectures/lecture02_rankaggr.pdf)
+        - [Zabashta, Alexey & Smetannikov, Ivan & Filchenkov, Andrey (2016) Rank Aggregation Algorithm Selection Meets Feature Selection](https://www.researchgate.net/publication/304487995_Rank_Aggregation_Algorithm_Selection_Meets_Feature_Selection)
+        - [rankaggretation - a Python package that implements some rank aggregation methods](https://github.com/djcunningham0/rankaggregation)
 
     ### KNIME
 

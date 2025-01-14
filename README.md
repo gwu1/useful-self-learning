@@ -30,6 +30,10 @@
     - Device- based Models with TensorFlow Lite [https://coursera.org/share/9591acb2e0f7f982e046e29f5eb3e11c](https://coursera.org/share/9591acb2e0f7f982e046e29f5eb3e11c)
     - TensorFlow 2.0 Practical Advanced [https://www.udemy.com/share/101YxQBEcad1pSRXg=/](https://www.udemy.com/share/101YxQBEcad1pSRXg=/)
 
+    ### DeepLearning.AI
+
+    - [A collection of courses from DeepLearning.AI I have taken](https://github.com/gwu1/deeplearning.ai)
+
     ### Neural Networks and Deep Learning
 
     - Neural Networks and Deep Learning [https://coursera.org/share/5b55253084dd2e97662ef6b12040119e](https://coursera.org/share/5b55253084dd2e97662ef6b12040119e)
